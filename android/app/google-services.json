@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "92077669452",
+    "project_id": "funapp-974e8",
+    "storage_bucket": "funapp-974e8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:92077669452:android:abd7f187d8654cf0b7c8e9",
+        "android_client_info": {
+          "package_name": "com.awesomeproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "92077669452-bhaosenliim2cdlr0atb2l62dp3tbhmq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBvAz18u_9hxhCqRA4eIiM3qsnwJqLL8Kk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "92077669452-bhaosenliim2cdlr0atb2l62dp3tbhmq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
